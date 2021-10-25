@@ -10,9 +10,13 @@ Because of the functions of the github, I cannot show the commands, but you can 
 
 # Features
 Update checker
+
 YouTube video downloaded
+
 Command for bug report (beta)
+
 "execute" command
+
 Fully personalization
 
 and more!
