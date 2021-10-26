@@ -24,3 +24,19 @@ and more!
 
 # Requirements
 Internet connection (For checking version)
+
+# Supported versions
+
+| Icon      | Designation   |
+| --------- | ------------- |
+| ❌       | Not supported |
+| ⚠️       | Will not be supported soon |
+| ✅       | Fully supported |
+
+| Version   | Is supported  |
+| --------- | ------------- |
+| 1.0       | ❌            |
+| 1.1       | ❌            |
+| 1.2       | ⚠️            |
+| 1.3       | ✅            |
+| 1.3.1       | ✅            |
