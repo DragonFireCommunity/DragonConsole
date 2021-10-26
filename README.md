@@ -10,28 +10,28 @@ In DragonConsole you can download any YouTube video
 Because of the functions of the github, I cannot show the commands, but you can download the console and see for yourself
 
 # Features
-Update checker
-
-YouTube video downloaded
-
-Command for bug report (beta)
-
-"execute" command
-
-Fully personalization
+| Feature                       |
+| ----------------------------- |
+| Update checker                |
+| YouTube video downloaded      |
+| Command for bug report (beta) |
+| "execute" command             |
+| Fully personalization         |
 
 and more!
 
 # Requirements
-Internet connection (For checking version)
+| Requirement | Why is it needed                                     |
+| ----------- | ---------------------------------------------------- |
+| Internet connection | For checking version and works some commands |
 
 # Supported versions
 
-| Icon      | Designation   |
-| --------- | ------------- |
-| ❌       | Not supported |
+| Icon      | Designation               |
+| --------- | ------------------------- |
+| ❌       | Not supported              |
 | ⚠️       | Will not be supported soon |
-| ✅       | Fully supported |
+| ✅       | Fully supported            |
 
 | Version   | Is supported  |
 | --------- | ------------- |
