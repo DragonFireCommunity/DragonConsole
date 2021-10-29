@@ -12,7 +12,7 @@ Because of the functions of the github, I cannot show the commands, but you can 
 # Features
 | Feature                       |
 | ----------------------------- |
-| Update checker                |
+| Auto Update                   |
 | YouTube video downloaded      |
 | Command for bug report (beta) |
 | "execute" command             |
@@ -37,6 +37,7 @@ and more!
 | --------- | ------------- |
 | 1.0       | ❌            |
 | 1.1       | ❌            |
-| 1.2       | ⚠️            |
-| 1.3       | ✅            |
-| 1.3.1       | ✅            |
+| 1.2       | ❌            |
+| 1.3       | ⚠️            |
+| 1.3.1     | ✅            |
+| 1.3.2     | ✅            |
