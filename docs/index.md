@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# DragonConsole
+The new console experience
 
-You can use the [editor on GitHub](https://github.com/DragonFire1230/DragonConsole/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# What is that?
+DragonConsole - Console, written in python with libs
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In DragonConsole you can download any YouTube video
 
-### Markdown
+# Commands (1.3 Version)
+Because of the functions of the github, I cannot show the commands, but you can download the console and see for yourself
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Features
+| Feature                       |
+| ----------------------------- |
+| Auto Update                   |
+| YouTube video downloaded      |
+| Command for bug report (beta) |
+| "execute" command             |
+| Fully personalization         |
 
-```markdown
-Syntax highlighted code block
+and more!
 
-# Header 1
-## Header 2
-### Header 3
+# Requirements
+| Requirement | Why is it needed                                     |
+| ----------- | ---------------------------------------------------- |
+| Internet connection | For checking version and works some commands |
 
-- Bulleted
-- List
+# Supported versions
 
-1. Numbered
-2. List
+| Icon      | Designation               |
+| --------- | ------------------------- |
+| ❌       | Not supported              |
+| ⚠️       | Will not be supported soon |
+| ✅       | Fully supported            |
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DragonFire1230/DragonConsole/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| Version   | Is supported  |
+| --------- | ------------- |
+| 1.0       | ❌            |
+| 1.1       | ❌            |
+| 1.2       | ❌            |
+| 1.3       | ⚠️            |
+| 1.3.1     | ✅            |
+| 1.3.2     | ✅            |
