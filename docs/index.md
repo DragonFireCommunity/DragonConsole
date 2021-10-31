@@ -21,8 +21,8 @@ Because of the functions of the github, I cannot show the commands, but you can 
 and more!
 
 # Requirements
-| Requirement | Why is it needed                                     |
-| ----------- | ---------------------------------------------------- |
+| Requirement         | Why is it needed                             |
+| ------------------- | -------------------------------------------- |
 | Internet connection | For checking version and works some commands |
 
 # Supported versions
