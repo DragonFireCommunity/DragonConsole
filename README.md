@@ -10,13 +10,13 @@ In DragonConsole you can download any YouTube video
 Because of the functions of the github, I cannot show the commands, but you can download the console and see for yourself
 
 # Features
-| Feature                       |
-| ----------------------------- |
-| Auto Update                   |
-| YouTube video downloaded      |
-| Command for bug report (beta) |
-| "execute" command             |
-| Fully personalization         |
+| Feature Name                  | Feature Type |
+| ----------------------------- | ------------ |
+| Auto Update                   | Release      |
+| YouTube video downloaded      | Release      |
+| Command for bug report        | Beta         |
+| "execute" command             | Release      |
+| Fully personalization         | Release      |
 
 and more!
 
