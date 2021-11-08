@@ -27,17 +27,20 @@ and more!
 
 # Supported versions
 
-| Icon      | Designation               |
-| --------- | ------------------------- |
-| ❌       | Not supported              |
-| ⚠️       | Will not be supported soon |
-| ✅       | Fully supported            |
+| Icon      | Designation                |
+| --------- | -------------------------- |
+| ❌        | Not supported              |
+| ⚒️        | Soon released              |
+| ⚠️        | Will not be supported soon |
+| ✅        | Fully supported            |
 
-| Version   | Is supported  |
-| --------- | ------------- |
-| 1.0       | ❌            |
-| 1.1       | ❌            |
-| 1.2       | ❌            |
-| 1.3       | ❌            |
-| 1.3.1     | ✅            |
-| 1.3.2     | ✅            |
+| Version       | Is supported  |
+| ------------- | ------------- |
+| 1.0           | ❌            |
+| 1.1           | ❌            |
+| 1.2           | ❌            |
+| 1.3           | ❌            |
+| 1.3.1         | ⚠️            |
+| 1.3.2         | ✅            |
+| 1.3.3 - 1.3.9 | Skipped       |
+| 1.4.0         | ⚒️            |
