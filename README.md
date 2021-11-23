@@ -30,7 +30,7 @@ and more!
 | Icon      | Designation                |
 | --------- | -------------------------- |
 | ❌        | Not supported              |
-| ⚒️        | Soon released              |
+| ⚒️        | In development             |
 | ⚠️        | Will not be supported soon |
 | ✅        | Fully supported            |
 
@@ -40,7 +40,7 @@ and more!
 | 1.1           | ❌            |
 | 1.2           | ❌            |
 | 1.3           | ❌            |
-| 1.3.1         | ⚠️            |
+| 1.3.1         | ❌            |
 | 1.3.2         | ✅            |
 | 1.3.3 - 1.3.9 | Skipped       |
 | 1.4.0         | ⚒️            |
