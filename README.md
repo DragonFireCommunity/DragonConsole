@@ -24,7 +24,7 @@ and more!
 | Requirement | Why is it needed                                     |
 | ----------- | ---------------------------------------------------- |
 | Internet connection | For checking version and works some commands |
-| Windows Operating System | This requires because DragonConsole 1.4.x> requires Windows 7/8.x/10/11 (LINUX/MAC OS NOT SUPPORTED)|
+| Windows Operating System | This requires because DragonConsole 1.4.x> supports only Windows 7/8.x/10/11 (LINUX/MAC OS NOT SUPPORTED)|
 
 # Supported versions
 
