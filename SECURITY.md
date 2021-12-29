@@ -23,4 +23,4 @@
 ## Reporting a Vulnerability
 
 You can report it in issues or in:
- - Discord: DragonFire#4896
+ - Telegram: @dragonfire0159
