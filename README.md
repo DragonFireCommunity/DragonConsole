@@ -17,6 +17,7 @@ Because of the functions of the github, I cannot show the commands, but you can 
 | Command for bug report        | Beta         |
 | "execute" command             | Release      |
 | Fully personalization         | Release      |
+| Requests to site              | Release      |
 
 and more!
 
