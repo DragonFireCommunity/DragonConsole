@@ -1,15 +1,1 @@
-DragonConsole 1.4.0 Changelog
-This update is big!
-
-Changelog:
- - Links now redirecting to "raw.github.com/DragonConsole" (Before update is: "dragonfire.7m.pl/api/DragonConsole" etc)
- - More optimization
- - More customization
- - Sad news, but console now not supported with Linux/MacOS (You can bypass it by using "BypassPlatformOSCheck" in "settings.json")
- - New feature: Language Switcher
- - The performance has been increased, and the consumption of RAM has become less than in previous versions.
- - New commands (parsePage, mlo, reload etc)
- - Now console fully stable works when file "settings.json" is not found or when command ending by error
- - Now translating console more easier
- - MORE PERFORMANCE
- - New intro
+CHANGELOG_DRAGONCONSOLE_ERROR
