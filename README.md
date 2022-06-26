@@ -1,3 +1,5 @@
+# DragonConsole has been abandoned and no longer receives support or updates. Thanks for this long support!
+
 # DragonConsole
 The new console experience
 
